@@ -10,6 +10,7 @@
 #include <stdexcept>
 #include "BulletProof.h"
 
+
 using namespace std;
 
 /******************************************************************************
